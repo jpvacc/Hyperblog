@@ -1,14 +1,14 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     color: #333;
     text-align: center;
 }
 
 #cabecera{
-    background: #88f;
+    background: #33a;
     color: white;
     box-shadow: 0px 2px 50px rgba(0, 0, 0, 0.7);
     font-weight: bold;
@@ -22,7 +22,7 @@ body {
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
-    color: black;
+    color: white;
 }
 
 #container {
