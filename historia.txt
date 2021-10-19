@@ -1,6 +1,6 @@
 Esta es la historia de Juan 
 
-Juan tiene 32 años y nacio en colombia
+Juan tiene 32 años
 
 Hoy hablaremos de su vida y exitos laborales
 Es un excelente desarrollador Frond-End despues de mucho esfuerzo
